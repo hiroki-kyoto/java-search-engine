@@ -1,0 +1,13 @@
+body{width:100%;overflow-x:hidden; background:url(images/backgroundUnit.jpg); font-size:12px; font-family:Arial, Helvetica, sans-serif,'ËÎÌå','Î¢ÈíÑÅºÚ','ºÚÌå';}
+.strech-line-up{position:absolute;margin-left:280px;}
+.strech-line-left{position:relative;margin-left:265px;margin-top:115px;}
+.slogan{margin-left:-3px;}
+.strech-line-center{width:100%;height:113px;margin-top:-5px;margin-left:279.7px;}
+.search-area{margin-left:-3px;}
+.strech-line-down{position:relative;margin-left:280px;margin-top:-3px;}
+.silver-button{margin-left:274px;margin-top:-3px;}
+.footer_left{margin-left:658px; margin-top:80px; width:340px;}
+.footer_right{float:left;margin-top:80px;}
+.search-bar{position:relative;margin-top:-92px;margin-left:38px;}
+	#ssk{background:url(images/text_bg.gif) repeat-x; line-height:30px;color:#fa0000;text-shadow:1px 0px 1px;font-size:1.2em; width:528px; height:30px; margin-top:18px; margin-left:18px; float:left;}
+	#submit{float:left; margin-top:18px; margin-left:13px;}

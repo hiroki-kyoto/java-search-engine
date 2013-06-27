@@ -1,0 +1,17 @@
+body{width:100%; background:url(images/main_bg.gif) repeat-x; font-size:12px; font-family:Arial, Helvetica, sans-serif,'ËÎÌå','Î¢ÈíÑÅºÚ','ºÚÌå';}
+.wrap{ width:990px; height:702px; margin:0 auto;}
+.header .logo{float:left; margin-top:35px;}
+.header h1 {text-indent:-9999px; display: block;}
+.header a {background:url(images/logo.jpg) no-repeat; display:block; height:44px; width:232px;}
+.search{float:left; margin-top:19px; margin-bottom:32px;}
+.search .search_left{float:left;}
+.search .search_middle{float:left; background:url(images/search_bg.jpg) repeat-x; width:596px; height:67px;}
+.search #ssk{background:url(images/text_bg.gif) repeat-x; line-height:30px;color:#fa0000;text-shadow:1px 0px 1px;font-size:1.2em; width:528px; height:30px; margin-top:18px; margin-left:18px; float:left;}
+.search #submit{float:left; margin-top:18px; margin-left:13px;}
+.search .search_right{float:left;}
+.content{}
+.content .bottom{clear:both;}
+.content ul li{float:left; margin-bottom:5px; margin-right:5px;}
+.content ul li a{color:#ffffff;}
+				.c_img{width:236px;height:242px;}
+				.c_data{width:236px;height:242px;font-size:1.2em;background:rgba(0,0,0,0.7);position:relative;margin-top:-242px;}
