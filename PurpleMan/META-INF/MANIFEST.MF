@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: purpleman.response_server
+Class-Path: lib/IKAnalyzer3.2.8.jar
+  lib/lucene-core-3.0.2.jar
+  lib/lucene-memory-3.0.2.jar
+  lib/lucene3.0-highlighter.jar
+  lib/sqljdbc2008.jar

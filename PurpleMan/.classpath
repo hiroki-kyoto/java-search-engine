@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/IKAnalyzer3.2.8.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene-memory-3.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/lucene3.0-highlighter.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc2008.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
