@@ -16,7 +16,7 @@ public class TokenLog {
 	    String logTime = yea + "_" + mon + "-" + day + "-" + hou + "-" + min + "" + sec; 
 		File logfile = new File("log/" + logTime + ".txt");
 		FileWriter fw = new FileWriter(logfile);
-		fw.write(logTime + "发生以下事件：\n" + s + "\n");
+		fw.write(logTime + s + "\n");
 		fw.close();
 	}
 }
